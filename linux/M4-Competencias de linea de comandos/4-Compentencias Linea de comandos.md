@@ -18,7 +18,7 @@ Si nunca has usado una CLI, al principio puede resultar difícil porque requiere
 - [[4.4 Historial de los Comandos]]
 - [[4.5 Introduciendo las variables del BASH shell]]
 - [[4.6 La Variable PATH]]
-- [[4.7 Comando exportUntitled]]
+- [[4.7 Comando export]]
 - [[4.8 Comando which]]
 - [[4.9 Comando type]]
 - [[4.10 Los Alias]]
