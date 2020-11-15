@@ -7,4 +7,26 @@ Sin embargo, con este poder viene la complejidad. La complejidad, a su vez, pued
 
 «93% de los directores de recursos humano planea contratar a un profesional de Linux en los próximos seis meses. Y casi 90% mencionó que es difícil encontrar profesionales experimentados en Linux. Esto significa muchas oportunidades de trabajo para aquellos con habilidades de Linux.»
 
-
+- [[5.2 Las Páginas man]]
+- [[5.2.1 Visualizando las Páginas de Comando Man]]
+- [[5.2.2 Controlar la Visualización de la Página man]]
+- [[5.2.3 Las Secciones de la Página man]]
+- [[5.2.4 La sección SYNOPSIS de la Página man]]
+- [[5.2.5 Buscando dentro de la Página man]]
+- [[5.2.6 Las Páginas man Categorizadas por Secciones]]
+- [[5.2.6.1 Determinar la Sección]]
+- [[5.2.6.2 Especificar una Sección]]
+- [[5.2.6.3 Buscar las Secciones]]
+- [[5.2.7 Buscar Páginas man por una Palabra Clave]]
+- [[5.3 Comando info]]
+- [[5.3.1 Visualizar la Documentación Info para un Comando]]
+- [[5.3.2 Cambiando de Posición mientras se Visualiza un Documento info]]
+- [[5.3.3 Explorar la Documentación info]]
+- [[5.4 Otras Fuentes de Ayuda]]
+- [[5.4.1 Utilizar la opción --help]]
+- [[5.4.2 Documentación Adicional del Sistema]]
+- [[5.5 Búsqueda de los Comandos y la Documentación]]
+- [[5.5.1 Donde estan ubicados estos comandos]]
+- [[5.5.2 Encontrar Cualquier Archivo o Directorio]]
+- [[5.5.3 Contar el Número de Archivos]]
+- [[5.5.4 Limitando la Salida]]
